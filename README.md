@@ -1,51 +1,31 @@
 ## help
 
-- Server 部署
-```
-1. 初次部署
-2. 更新版本
-```
+- Server 
+  - 部署
+  ```
+  1. 初次部署
+  2. 更新版本
+  ```
 
-<br>
-
-- Server 数据维护
-
-```
-1. 初次部署
-2. 更新版本
-```
-
-<br>
-<br>
-
-- iOS 部署
-```
-1. 怎么部署到fir.im
-2. 怎么自动测试 (使用百度或腾讯）
-```
-
-<br>
-
-- iOS 发布
-```
-1. 怎么提交到APP store
-```
+  - 数据维护
+  ```
+  1. 初次部署
+  2. 更新版本
+  ```
 
 <br>
 <br>
 
-- Android 部署
-```
-1. 怎么部署到fir.im
-2. 怎么自动测试
-```
+- iOS 
+  - [部署& 发布](https://github.com/bstcine/help/wiki/iOS-%E9%83%A8%E7%BD%B2%E4%B8%8E%E5%8F%91%E5%B8%83)
+
 
 <br>
+<br>
 
-- Android 发布
-```
-1. 怎么提交各个Store
-```
+- Android 
+  - [部署 & 发布](https://github.com/bstcine/help/wiki/Android-%E9%83%A8%E7%BD%B2%E4%B8%8E%E5%8F%91%E5%B8%83)
+
 
 <br>
 <br>
