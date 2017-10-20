@@ -1,6 +1,8 @@
 ## help
 
 - Server 
+  -  [New Table&API](https://github.com/bstcine/help/wiki/Server-Create-New-Table&API)
+  
   - 部署
   ```
   1. 初次部署
@@ -12,6 +14,9 @@
   1. 初次部署
   2. 更新版本
   ```
+  
+  
+
 
 <br>
 <br>
